@@ -32,5 +32,5 @@ public class EntradaDatos {
       return opcion;
            
 }
-  //de marcos to my putita urcera
+
 }
